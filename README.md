@@ -12,6 +12,9 @@ MVVM, Compose, Hilt , Navigation, Room
   <img src="https://raw.githubusercontent.com/vedraj360/NewsX/master/screenshots/mad.png" width="600"   hspace="40"/>
 </p>
 
+<p>
+Mad Score link : https://madscorecard.withgoogle.com/scorecards/2218480916/#summary
+</p>
 ## UI
 
 <p float="left">
